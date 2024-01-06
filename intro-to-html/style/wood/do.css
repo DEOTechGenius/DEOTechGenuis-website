@@ -1,0 +1,26 @@
+p{
+  margin: 0;
+  font-family:montserrat;
+}
+
+
+.net-com{
+  font-weight:bold;
+  font-size: 60px;
+  text-align:center;
+
+}
+.go-com{
+  text-align: center;
+  margin-top: 5px;
+  font-weight: bold;
+  
+}
+.yello-com{
+  text-decoration: underline;
+  cursor:pointer;
+
+}
+.yello-com:hover{
+  color:red;
+}
